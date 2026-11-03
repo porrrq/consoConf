@@ -1,0 +1,16 @@
+* {
+  border-radius: 0px !important;
+}
+
+/* Top Bar */
+.titlebar-spacer 		{ display: none !important; }
+#back-button	 		{ display: none !important; }
+#forward-button	 		{ display: none !important; }
+#reload-button	 		{ display: none !important; }
+#home-button	 		{ display: none !important; }
+#library-button	 		{ display: none !important; }
+#fxa-toolbar-menu-button	{ display: none !important; }
+#urlbar-container moz-button	{ display: none !important; }
+#PersonalToolbar		{ display: none !important; }
+
+#customizableui-special-spring1, #customizableui-speical-spring2 { display: none !important; }
